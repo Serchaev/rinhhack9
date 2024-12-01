@@ -1,4 +1,5 @@
 # rinhhack9
+# ЛЮДЬиЧЕЛОВЕКИ
 
 **Файлы preds.csv лежат в папках model_preds и manual_preds.**
 
